@@ -8,7 +8,7 @@ I started to fall in love with technology and this given me the curiosity to lea
 
 - 🎓 1st year of System Analysis and Development 
 - :sparkles: 25 yo, BR
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Beginner Web Full Stack .NET  
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Beginner Web Full Stack .NET || [Digital House](https://www.digitalhouse.com/br)
 - 📊 Working at [Mercado Eletrônico](https://www.me.com.br/) 
 - 💬 Active community member of [BeeStrong Code](https://twitter.com/BeeStrongCode)
 - ⚡ **Fun facts**: I'm a D&D Master, love games, animes and science fiction ❤️
