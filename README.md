@@ -6,8 +6,8 @@ I started to fall in love with technology and this given me the curiosity to lea
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-- 🎓 1st year of System Analysis and Development 
-- :sparkles: 26 yo, BR
+- 🎓 1st year of System Anaysis and Development || [FIAP](https://www.fiap.com.br/)
+- :sparkles: 27 yo, BR
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Web Dev Full Stack .NET || [Digital House](https://www.digitalhouse.com/br)
 - 📊 Working at [Mercado Eletrônico](https://www.me.com.br/) 
 - 💬 Active community member of [BeeStrong Code](https://twitter.com/BeeStrongCode)
