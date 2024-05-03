@@ -11,7 +11,7 @@ I started to fall in love with technology and this given me the curiosity to lea
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Web Dev Full Stack .NET || [Digital House](https://www.digitalhouse.com/br)
 - 📊 Working at [Avanade](https://www.avanade.com/) 
 - 💬 Active community member of [BeeStrong Code](https://twitter.com/BeeStrongCode)
-- ⚡ **Fun facts**: I'm a D&D Master, love games, animes and science fiction ❤️
+- ⚡ **Fun facts**: I'm a D&D Master, love games, art and science fiction ❤️
 
 
 
