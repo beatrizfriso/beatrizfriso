@@ -18,7 +18,6 @@ I started to fall in love with technology and this given me the curiosity to lea
 ### Reach me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 [![Github](https://img.shields.io/github/followers/beatrizfriso?label=Follow&style=social)](https://github.com/beatrizfriso)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-friso-3625a7234/)](https://www.linkedin.com/in/beatriz-friso-3625a7234/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/beafriso)](https://twitter.com/beafriso)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-c039a6?style=flat-square&labelColor=c039a6&logo=instagram&logoColor=white&link=https://instagram.com/beatrizfriso)](https://instagram.com/beatrizfriso)
 
 ## My activity:
